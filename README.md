@@ -59,8 +59,8 @@ int main()
 }
 ```
 ## OUTPUT
-![alt text](forckcheck.png)
 
+<img width="3158" height="1344" alt="OS Output" src="https://github.com/user-attachments/assets/7566f6e0-b1c5-40c4-b706-2f84dd82374f" />
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 ```
@@ -107,7 +107,8 @@ int main() {
 }
 ```
 ## OUTPUT
-![alt text](execcheck.png)
+
+<img width="4628" height="896" alt="OS Output(1)" src="https://github.com/user-attachments/assets/761f2b96-2568-43bf-a788-992b55f08b09" />
 
 # RESULT:
 The programs are executed successfully.
